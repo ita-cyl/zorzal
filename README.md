@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/vacashot/asoprofit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nuevas estrategias para mitigar los daños causados por las enfermedades de especies hortícolas de reciente aparición.estudios que permitan poner en práctica nuevas estrategias para mitigar los daños causados en zanahoria, puerro y cebolla, causados por patógenos como la bacteria Candidatus liberibacter solanaceaurm. se lleva a cabo en cooperación con la asociación para la Protección fitosanitaria del Puerro, Zanahoria y Cebolla en Castilla y León (ASOPROFIT). Impacto: Minimizar los daños en cosecha, asi como los costes de tratamientos y aumentar los rendimientos obtenidos. Financiación: FEADER
 
 ### Mapa de evaluaciones de psilidos: NINFAS (semana del 25 al 31 de mayo de 2020)
 Aqui podeis añadir comentarios al mapa
