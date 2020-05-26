@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Acceso al formulario: V11 (Última modificación: 26_05_2020)
 
-(https://ee.kobotoolbox.org/x/BdkKhP7d)
+https://ee.kobotoolbox.org/x/BdkKhP7d
