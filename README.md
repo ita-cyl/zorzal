@@ -17,4 +17,5 @@ Para más información, contacta con nosotros a través de nuestro formulario de
 [Formulario](https://ee.kobotoolbox.org/x/BdkKhP7d).
 [Instrucciones]
 
+https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png
 ![Descripción de la imagen](Sin título-1.jpg)
