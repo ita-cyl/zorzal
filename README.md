@@ -16,8 +16,9 @@ Te invitamos a explorar más sobre la variedad de olivo Zorzal visitando nuestra
 
 Para más información, contacta con nosotros a través de nuestro formulario de contacto.
 [Formulario](https://ee.kobotoolbox.org/x/BdkKhP7d).
+Si quieres compartir tus impresiones de cata, puedes hacerlo siguendo nuestra ficha
 [Instrucciones]
-
+[Ficha de Cata](https://ee.kobotoolbox.org/x/BdkKhP7d).
 
 ![Descripción de la imagen](Sin título-1.jpg)
 
