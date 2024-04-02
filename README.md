@@ -2,6 +2,7 @@
 
 
 Bienvenidos a nuestro espacio dedicado a celebrar y preservar la variedad de olivo Zorzal, una joya agrícola única en la región de Castilla y León. Esta variedad autóctona simboliza la riqueza y diversidad del patrimonio natural de nuestra región, demostrando la importancia de conservar nuestras tradiciones agrícolas mientras abrazamos prácticas sostenibles.
+![Descripción de la imagen](https://www.que.es/wp-content/uploads/2024/04/elsa-pataky-womens-health-43-199-1551110857-1024x683.jpg)
 ![Descripción de la imagen](zorzal_br.jpg)
 ### Orígenes y Características
 El olivo Zorzal se distingue por su adaptación excepcional al clima y terreno específicos de Castilla y León, lo que resulta en un aceite de oliva virgen extra de calidad superior. Con árboles robustos y resistentes, esta variedad produce aceitunas que ofrecen un perfil de sabor único, apreciado tanto a nivel local como internacional.
