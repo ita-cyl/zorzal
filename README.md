@@ -30,8 +30,6 @@ Si quieres compartir tus impresiones de cata, puedes hacerlo siguiendo nuestra f
 
 
 ![Descripción de la imagen](Coexistentia ITACYL.png)
-<p align="center">
-  <img src="maquina.gif" alt="Descripción de la imagen">
-</p>
+<img src="maquina.gif" alt="Descripción de la imagen" style="display: block; margin: 0 auto;">
 
 
