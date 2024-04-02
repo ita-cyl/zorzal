@@ -24,7 +24,7 @@ Para más información, contacta con nosotros a través de nuestro formulario de
 
 Si quieres compartir tus impresiones de cata, puedes hacerlo siguiendo nuestra ficha para el AOVE:
 [Instrucciones]
-[Ficha de Cata](https://ee.kobotoolbox.org/x/BdkKhP7d).
+[Ficha de Cata](https://kf.kobotoolbox.org/#/forms/aPBAnRjRChzJGdoBQwYvvx).
 
 ![Descripción de la imagen](zama_br.jpg)
 
