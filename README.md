@@ -19,9 +19,10 @@ El ITACyL  ha realizado un trabajo de caracterización de esta variedad , compro
 ### Visítanos
 Te invitamos a explorar más sobre la variedad de olivo Zorzal visitando nuestras plantaciones. Descubre el proceso detrás de la creación de nuestro excepcional aceite de oliva virgen extra y sumérgete en la belleza natural de Castilla y León.
 
-Para más información, contacta con nosotros a través de nuestro formulario de contacto.
+Para más información, contacta con nosotros a través de nuestro formulario de contacto:
 [Formulario](https://ee.kobotoolbox.org/x/BdkKhP7d).
-Si quieres compartir tus impresiones de cata, puedes hacerlo siguendo nuestra ficha
+
+Si quieres compartir tus impresiones de cata, puedes hacerlo siguiendo nuestra ficha para el AOVE:
 [Instrucciones]
 [Ficha de Cata](https://ee.kobotoolbox.org/x/BdkKhP7d).
 
@@ -29,3 +30,4 @@ Si quieres compartir tus impresiones de cata, puedes hacerlo siguendo nuestra fi
 
 
 ![Descripción de la imagen](Coexistentia ITACYL.png)
+
